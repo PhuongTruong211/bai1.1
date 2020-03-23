@@ -1,0 +1,15 @@
+{
+    "name": "app1/phuong01",
+    "description": "Day la du an PHP",
+    "authors": [
+        {
+            "name": "Phuong",
+            "email": "phuongb1609542@student.ctu.edu.vn"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^2.0",
+         "filp/whoops": "^2.3.1"
+    }
+}
